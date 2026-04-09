@@ -1,3 +1,7 @@
+// Link: https://leetcode.com/problems/two-sum
+// Problem: Two Sum
+// Difficulty: Easy
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
